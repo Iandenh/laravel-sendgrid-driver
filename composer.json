@@ -3,7 +3,7 @@
     "description": "This liblary can add sendgrid driver into the laravel's mail configure.",
     "require": {
         "illuminate/mail": "~5.1",
-        "guzzlehttp/guzzle": "~5.1"
+        "guzzlehttp/guzzle": "~6.1"
     },
     "require-dev": {
         "illuminate/container": "~5.1.0",
